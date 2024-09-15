@@ -1,0 +1,12 @@
+/Users/thiagokeller/Dev/CP4/CP4.Services/bin/Debug/net8.0/CP4.Services.deps.json
+/Users/thiagokeller/Dev/CP4/CP4.Services/bin/Debug/net8.0/CP4.Services.dll
+/Users/thiagokeller/Dev/CP4/CP4.Services/bin/Debug/net8.0/CP4.Services.pdb
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.csproj.AssemblyReference.cache
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.AssemblyInfoInputs.cache
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.AssemblyInfo.cs
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.csproj.CoreCompileInputs.cache
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.dll
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/refint/CP4.Services.dll
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/CP4.Services.pdb
+/Users/thiagokeller/Dev/CP4/CP4.Services/obj/Debug/net8.0/ref/CP4.Services.dll

@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=91e756b9_002D6838_002D44e0_002D9e3e_002D150b01ba5c7c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CountryServiceTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::59B89C25-01E7-4DF1-BB7D-CD04F9BD4687::net8.0::CP4.Services.Test.CountryServiceTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D72E252D-AE75-4E91-88EC-483AAE401F4F::net8.0::CP4.API.Test.ProgramTests.Swagger_ShouldBeConfiguredCorrectly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D72E252D-AE75-4E91-88EC-483AAE401F4F::net8.0::CP4.API.Test.ProgramTests.Swagger_EndpointReturnsSwaggerDoc&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::7B3E7F9C-201D-4B6C-B526-63A60092ADDA::net8.0::CP4.API.Test.ProgramTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CP4.API</name>
+    </assembly>
+    <members>
+        <member name="M:CP4.API.Controllers.CountriesController.GetCountries">
+            <summary>
+            Retorna a lista completa de países disponíveis.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                GET /api/countries
+            
+            Esse endpoint retorna uma lista de todos os países disponíveis no sistema.
+            </remarks>
+            <response code="200">Retorna a lista de países</response>
+            <response code="204">Nenhum país encontrado</response>
+            <response code="503">Serviço indisponível</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+        <member name="M:CP4.API.Controllers.CountriesController.GetCountryByName(System.String)">
+            <summary>
+            Retorna os detalhes de um país específico baseado no nome fornecido.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                GET /api/countries/getbyname?country=Brazil
+            
+            O nome do país é insensível a maiúsculas/minúsculas.
+            </remarks>
+            <param name="country">O nome do país a ser buscado.</param>
+            <response code="200">Retorna os detalhes do país encontrado</response>
+            <response code="204">Nenhum país encontrado com o nome fornecido</response>
+            <response code="503">Serviço indisponível</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+    </members>
+</doc>
